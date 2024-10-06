@@ -1,0 +1,26 @@
+.bronze {
+  color: #ad5600;
+}
+.gold {
+  color: rgb(236, 154, 0);
+}
+.platinum {
+  color: rgb(39, 226, 164);
+}
+.diamond {
+  color: rgb(0, 158, 229);
+}
+
+.ac {
+  color: #009874;
+  font-weight: bold;
+}
+.wa {
+  color: #dd4124;
+}
+.mle, .tle {
+  color: #fa7268;
+}
+.rte {
+  color: #5f4b8b;
+}
